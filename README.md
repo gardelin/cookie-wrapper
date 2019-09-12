@@ -17,9 +17,9 @@ var wrapper = new Cookie();
 
 ## API
 
-* [`get`](#get)
-* [`set`](#set)
-* [`delete`](#delete)
+* [`get`](#getname)
+* [`set`](#setname-value-option)
+* [`delete`](#deletename)
 
 ### .get(name)
 
